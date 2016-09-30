@@ -7,6 +7,12 @@ app.use(morgan('combined'));
 
 var articleOne = {
   title: 'Article One | Abin Cherish',
+  menu: `
+    <a href="/"> Home</a>
+    <a href="/article-one"> Article-One</a>
+    <a href="/article-two"> Article-Two</a>
+    <a href="/article-three"> Article-Three</a>
+  `,
   heading: 'Article ONE',
   date: 'Friday,30th September',
   content: `<p>
@@ -16,6 +22,7 @@ var articleOne = {
 
 function createTemplate (data) {
     var title = data.title;
+    var menu = data.menu;
     var heading = data.heading;
     var date = data.date;
     var content = data.content;
@@ -31,10 +38,7 @@ function createTemplate (data) {
             <body>
                 <div class=container>
                 <div>
-                    <a href="/"> Home</a>
-                    <a href="/article-one"> Article-One</a>
-                    <a href="/article-two"> Article-Two</a>
-                    <a href="/article-three"> Article-Three</a>
+                    ${menu}
                 </div>
                 <hr/>
                 <h3>

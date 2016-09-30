@@ -5,7 +5,8 @@ var path = require('path');
 var app = express();
 app.use(morgan('combined'));
 
-var articleOne = {
+var articles = {
+ articleOne: {
   title: 'Article One | Abin Cherish',
   menu: `
     <a href="/"> Home</a>
@@ -20,6 +21,7 @@ var articleOne = {
             </p>`
 };
 
+}
 function createTemplate (data) {
     var title = data.title;
     var menu = data.menu;
@@ -56,13 +58,12 @@ function createTemplate (data) {
         `; 
     return htmlTemplate;
 }
-
 app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
 });
 
 app.get('/article-one',function (req,res) {
-    res.send(createTemplate(articleOne));
+    res.send(createTemplate(article.articleOne));
 });
 
 app.get('/article-two',function (req,res) {

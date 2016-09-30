@@ -14,7 +14,7 @@ var articleOne = {
             </p>`
 };
 
-function createTemplate (Data) {
+function createTemplate (data) {
     var title = data.title;
     var heading = data.heading;
     var date = data.date;
@@ -32,6 +32,9 @@ function createTemplate (Data) {
                 <div class=container>
                 <div>
                     <a href="/"> Home</a>
+                    <a href="/article-one"> Article-One</a>
+                    <a href="/article-two"> Article-Two</a>
+                    <a href="/article-three"> Article-Three</a>
                 </div>
                 <hr/>
                 <h3>

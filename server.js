@@ -6,22 +6,49 @@ var app = express();
 app.use(morgan('combined'));
 
 var articles = {
- articleOne: {
-  title: 'Article One | Abin Cherish',
-  menu: `
-    <a href="/"> Home</a>
-    <a href="/article-one"> Article-One</a>
-    <a href="/article-two"> Article-Two</a>
-    <a href="/article-three"> Article-Three</a>
-  `,
-  heading: 'Article ONE',
-  date: 'Friday,30th September',
-  content: `<p>
-                This is the content area for first article...
-            </p>`
+     'article-one': {
+      title: 'Article One | Abin Cherish',
+      menu: `
+        <a href="/"> Home</a>
+        <a href="/article-one"> Article-One</a>
+        <a href="/article-two"> Article-Two</a>
+        <a href="/article-three"> Article-Three</a>
+      `,
+      heading: 'Article ONE',
+      date: 'Friday,30th September',
+      content: `<p>
+                    This is the content area for first article...
+                </p>`
+    },
+     'article-two': {
+         title: 'Article Two | Abin Cherish',
+      menu: `
+        <a href="/"> Home</a>
+        <a href="/article-one"> Article-One</a>
+        <a href="/article-two"> Article-Two</a>
+        <a href="/article-three"> Article-Three</a>
+      `,
+      heading: 'Article TWO',
+      date: 'Saturday,1st October',
+      content: `<p>
+                    This is the content area for second article...
+                </p>`
+     },
+     'article-three': {
+         title: 'Article Three | Abin Cherish',
+      menu: `
+        <a href="/"> Home</a>
+        <a href="/article-one"> Article-One</a>
+        <a href="/article-two"> Article-Two</a>
+        <a href="/article-three"> Article-Three</a>
+      `,
+      heading: 'Article THREE',
+      date: 'Saturday,1st October',
+      content: `<p>
+                    This is the content area for third article...
+                </p>`
+     }
 };
-
-}
 function createTemplate (data) {
     var title = data.title;
     var menu = data.menu;
@@ -58,20 +85,14 @@ function createTemplate (data) {
         `; 
     return htmlTemplate;
 }
+
 app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
 });
 
-app.get('/article-one',function (req,res) {
-    res.send(createTemplate(articles.articleOne));
-});
-
-app.get('/article-two',function (req,res) {
-    res.sendFile(path.join(__dirname, 'ui', 'article-two.html'));
-});
-
-app.get('/article-three',function (req,res) {
-    res.sendFile(path.join(__dirname, 'ui', 'article-three.html'));
+app.get('/:articleName',function (req,res) {
+    var articleName = req.params.articleName;
+    res.send(createTemplate(articles[articleName]));
 });
 
 app.get('/ui/style.css', function (req, res) {

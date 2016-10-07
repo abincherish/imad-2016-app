@@ -1,5 +1,5 @@
 
-var img = document.getElementById('button');
+var button = document.getElementById('button');
 var counter = 0;
 button.onClick = function () {
     counter = counter + 1;

@@ -14,11 +14,21 @@ var articles = {
         <a href="/article-two"> Article-Two</a>
         <a href="/article-three"> Article-Three</a>
       `,
-      heading: 'Article ONE',
+      heading: 'My Resume',
       date: 'Friday,30th September',
       content: `<p>
-                    This is the content area for first article...
-                </p>`
+                    Abin Cherish
+Final Year B.Tech Student	
+Computer Science and Engineering	     
+Believers Church Caarmel Engg. College                                             
+
+                </p>
+                <hr/>
+                <p><h4>Career Objective</h4>
+                To succeed in an environment of growth and excellence and earn a job which provides me job satisfaction and self development and help me achieve personal as well as organizational goals.
+                </p>
+                
+                `
     },
      'article-two': {
          title: 'Article Two | Abin Cherish',

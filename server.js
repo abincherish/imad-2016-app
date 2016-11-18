@@ -75,9 +75,9 @@ D.O.B : 28 December, 1994<br/>
 Gender : Male<br/>
 Mail : abincherish@gmail.com<br/>
 Mobile : 9744196141, 8301884251 <br/>
-Linked In :<a href="https://in.linkedin.com/in/abin-cherish-31874112a">Visit my Linked In Profile</a><br/>
-Resume Drive URL:<a href="https://drive.google.com/open?id=0Bz2aOzQMQ2q4eG1TTXpLNG1RM28">Visit my CV in Google Drive</a><br/>
-Resume Web App URL :<a href="http://abincherish.imad.hasura-app.io/">Visit my Web App</a><br/>
+Linked In :<a href="https://in.linkedin.com/in/abin-cherish-31874112a"target="_blank">Visit my Linked In Profile</a><br/>
+Resume Drive URL:<a href="https://drive.google.com/open?id=0Bz2aOzQMQ2q4eG1TTXpLNG1RM28"target="_blank">Visit my CV in Google Drive</a><br/>
+Resume Web App URL :<a href="http://abincherish.imad.hasura-app.io/"target="_blank">Visit my Web App</a><br/>
 <hr/>
 <h5>Reference</h5><br>
 1. Prof. Bijy Mathew  HOD CSE Dept. BC Caarmel Mob.: 9633468413 <br/>

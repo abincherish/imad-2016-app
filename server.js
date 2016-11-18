@@ -11,8 +11,8 @@ var articles = {
       menu: `
         <a href="/"> Home</a>
         <a href="/article-one"> Resume</a>
-        <a href="/article-two"> Mini-Project</a>
-        <a href="/article-three"> Main-Project</a>
+        <a href="/article-two"> Projects</a>
+        <a href="/article-three"> Contacts</a>
       `,
       heading: 'My Resume',
       date: 'Friday,30th September',
@@ -30,28 +30,28 @@ var articles = {
                 `
     },
      'article-two': {
-         title: 'Article Two | Abin Cherish',
+         title: 'Projects | Abin Cherish',
       menu: `
         <a href="/"> Home</a>
-        <a href="/article-one"> Article-One</a>
-        <a href="/article-two"> Article-Two</a>
-        <a href="/article-three"> Article-Three</a>
+        <a href="/article-one"> Resume</a>
+        <a href="/article-two"> Projects</a>
+        <a href="/article-three"> Contact</a>
       `,
-      heading: 'Article TWO',
+      heading: 'Projects',
       date: 'Saturday,1st October',
       content: `<p>
                     This is the content area for second article...
                 </p>`
      },
      'article-three': {
-         title: 'Article Three | Abin Cherish',
+         title: 'Contact | Abin Cherish',
       menu: `
         <a href="/"> Home</a>
-        <a href="/article-one"> Article-One</a>
-        <a href="/article-two"> Article-Two</a>
-        <a href="/article-three"> Article-Three</a>
+        <a href="/article-one"> Resume</a>
+        <a href="/article-two"> Project</a>
+        <a href="/article-three"> Contact</a>
       `,
-      heading: 'Article THREE',
+      heading: 'Contact',
       date: 'Saturday,1st October',
       content: `<p>
                     This is the content area for third article...

@@ -18,14 +18,13 @@ var articles = {
       date: 'Friday,30th September',
       content: `<p>
                     Abin Cherish <br>
-Final Year B.Tech Student	
-Computer Science and Engineering	     
-Believers Church Caarmel Engg. College                                             
-
+                    Final Year B.Tech Student	<br>
+                    Computer Science and Engineering<br>	     
+                    Believers Church Caarmel Engg. College                                             
                 </p>
                 <hr/>
                 <p><h4>Career Objective</h4>
-                To succeed in an environment of growth and excellence and earn a job which provides me job satisfaction and self development and help me achieve personal as well as organizational goals.
+                    To succeed in an environment of growth and excellence and earn a job which provides me job satisfaction and self development and help me achieve personal as well as organizational goals.
                 </p>
                 
                 `

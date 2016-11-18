@@ -54,7 +54,7 @@ var articles = {
       heading: 'Contact',
       date: 'Saturday,1st October',
       content: `<p>
-                    This is the content area for third article...
+                    PETS4U is a web based application, mainly focused on to the pet farmers and pet dealers. It intends to provide support to those who are interested in pets. The shop owner who is the admin can publish the list of both currently available and new arrival pets in the shop. The system provides facilities for booking pets. In the case of 
                 </p>`
      }
 };

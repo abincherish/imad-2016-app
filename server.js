@@ -7,17 +7,17 @@ app.use(morgan('combined'));
 
 var articles = {
      'article-one': {
-      title: 'Article One | Abin Cherish',
+      title: 'Resume | Abin Cherish',
       menu: `
         <a href="/"> Home</a>
-        <a href="/article-one"> Article-One</a>
-        <a href="/article-two"> Article-Two</a>
-        <a href="/article-three"> Article-Three</a>
+        <a href="/article-one"> Resume</a>
+        <a href="/article-two"> Mini-Project</a>
+        <a href="/article-three"> Main-Project</a>
       `,
       heading: 'My Resume',
       date: 'Friday,30th September',
       content: `<p>
-                    Abin Cherish
+                    Abin Cherish <br>
 Final Year B.Tech Student	
 Computer Science and Engineering	     
 Believers Church Caarmel Engg. College                                             

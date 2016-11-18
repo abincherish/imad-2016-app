@@ -73,9 +73,14 @@ Ezhumattoor, Mallappally<br/>
 Pathanamthitta Dist. PIN 689586<br/>
 D.O.B : 28 December, 1994<br/>
 Gender : Male<br/>
+Mail : abincherish@gmail.com<br/>
+Mobile : 9744196141, 8301884251 <br/>
+Linked In :https://in.linkedin.com/in/abin-cherish-31874112a <br/>
+Resume Drive URL:https://drive.google.com/open?id=0Bz2aOzQMQ2q4eG1TTXpLNG1RM28 <br/>
+Resume Web App URL :http://abincherish.imad.hasura-app.io/<br/>
 <hr/>
 <h5>Reference</h5><br>
-1. Prof. Bijy Mathew  HOD CSE Dept. BC Caarmel Mob.: 9633468413 <br>
+1. Prof. Bijy Mathew  HOD CSE Dept. BC Caarmel Mob.: 9633468413 <br/>
 2. Er. Joshy Thomas Jose Asst. Prof. BC Caarmel Mob.: 9447173364
                 </p>`
      }

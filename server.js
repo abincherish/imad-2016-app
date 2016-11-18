@@ -48,7 +48,7 @@ var articles = {
       menu: `
         <a href="/"> Home</a>
         <a href="/article-one"> Resume</a>
-        <a href="/article-two"> Project</a>
+        <a href="/article-two"> Projects</a>
         <a href="/article-three"> Contact</a>
       `,
       heading: 'Contact',

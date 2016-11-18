@@ -45,7 +45,7 @@ var articles = {
                         <br>Tool  ASP.NET
                         <br>Front End  C Back End  SQL Server 2008
                 </p>
-                <\hr>
+                <hr/>
                 <p>
                 <h4>Main MADAM</h4>
                     Android users are constantly threatened by an increasing number of malicious applications, generically called malware. These are threats to user privacy, money, device and file integrity. So there is a need for an effective and efficient behaviour-based Android malware detection and prevention. MADAM (Multi-Level Anomaly Detector for Android Malware), is an Android app for detecting malware application. MADAM is a novel host-based malware detection system for Android devices which simultaneously analyses and correlates features at four levels: kernel, application, user and package, to detect and stop malicious behaviours.

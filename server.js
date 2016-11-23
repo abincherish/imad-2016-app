@@ -26,6 +26,25 @@ var articles = {
                 <p><h4>Career Objective</h4>
                     To succeed in an environment of growth and excellence and earn a job which provides me job satisfaction and self development and help me achieve personal as well as organizational goals.
                 </p>
+                <p><h4>Academic Credentials</h4>
+                <table style="width:100%">
+                <tr>
+                    <th>Firstname</th>
+                    <th>Lastname</th> 
+                    <th>Age</th>
+                </tr>
+                <tr>
+                <td>Jill</td>
+                <td>Smith</td> 
+                <td>50</td>
+                </tr>
+                <tr>
+                <td>Eve</td>
+                <td>Jackson</td> 
+                <td>94</td>
+                </tr>
+                </table>
+                </p>
                 
                 `
     },

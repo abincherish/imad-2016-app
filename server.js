@@ -50,7 +50,7 @@ var articles = {
                 </p>
                 <p>
                 <h4>Known Languages</h4>
-                <table style="width:100%" border="1">
+                <table style="width:100%" border="0.5" align="center">
                 <tr><th></th><th>Read</th><th>Write</th><th>Speak</th></tr>
                 <tr><td>Malayalam</td><td>Y</td><td>Y</td><td>Y</td></tr>
                 <tr><td>English</td><td>Y</td><td>Y</td><td>Y</td></tr>

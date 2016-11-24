@@ -162,7 +162,7 @@ function createTemplate (data) {
                     ${title} 
                 </title>
             </head>
-            <body>
+            <body background="http://i0.wp.com/backgroundmachine.com/wp-content/uploads/2015/07/background-designs-background-pictures-hd-resolution.jpg?fit=973%2C651">
                 <div class=container>
                 <div>
                     ${menu}

@@ -27,7 +27,7 @@ var articles = {
                     To succeed in an environment of growth and excellence and earn a job which provides me job satisfaction and self development and help me achieve personal as well as organizational goals.
                 </p>
                 <p><h4>Academic Credentials</h4>
-                <table style="width:100%" border= 1px>
+                <table style="width:100%" border="1px">
                 <tr><th>Degree</th><th>Institution</th><th>University/Board</th><th>Year</th><th>Percent</th></tr>
                 <tr><td>B.Tech in Computer Science and Engineering</td><td>Believers Church Caarmel Engg. College Pathanamthitta</td><td>MG University</td><td>2013-2017</td><td>73.96</td></tr>
                 <tr><td>Class XII</td><td>Mar Dionysius Sr. Secondary School Mallappally</td><td>CBSE</td>   <td>2013</td><td>70.6</td></tr>

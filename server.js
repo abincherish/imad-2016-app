@@ -90,14 +90,14 @@ var articles = {
                     <h4>Mini PETS4U</h4>
                     PETS4U is a web based application, mainly focused on to the pet farmers and pet dealers. It intends to provide support to those who are interested in pets. The shop owner who is the admin can publish the list of both currently available and new arrival pets in the shop. The system provides facilities for booking pets. In the case of advance booking of new arrival pets, the shop owner can send notifications by email and SMS when it became available.Users can consult any doctor, by mailing their enquiries directly to the doctor's mail. The system also provides information about services of the shop, accessories, food required for pets. The farmers can enlist the pets they have for sale so that the shop owner can easily send his requirement to the farmer through this site.
                         <br>Tool - ASP.NET
-                        <br>Front End - C# Back End - SQL Server 2008
+                        <br>Front End - C# <br> Back End - SQL Server 2008
                 </p>
                 <hr/>
                 <p>
                 <h4>Main MADAM</h4>
                     Android users are constantly threatened by an increasing number of malicious applications, generically called malware. These are threats to user privacy, money, device and file integrity. So there is a need for an effective and efficient behaviour-based Android malware detection and prevention. MADAM (Multi-Level Anomaly Detector for Android Malware), is an Android app for detecting malware application. MADAM is a novel host-based malware detection system for Android devices which simultaneously analyses and correlates features at four levels: kernel, application, user and package, to detect and stop malicious behaviours.
-                        <br>Tool  Android Studio
-                        <br>Front End  Java Back End  SQLite
+                        <br>Tool - Android Studio
+                        <br>Front End - Java <br>Back End - SQLite
                 </p>
                 `
      },

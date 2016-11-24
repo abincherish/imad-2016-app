@@ -49,7 +49,7 @@ var articles = {
                 </ul>
                 </p>
                  <p><h4>Strength and Weakness</h4>
-                 <table style="width:100%" border="1px">
+                 <table style="width:100%">
                  <tr><td> 
                 <ul>
                  <li>Dedicated</li>

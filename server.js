@@ -30,10 +30,17 @@ var articles = {
                 <table style="width:100%" border="1px">
                 <tr><th>Degree</th><th>Institution</th><th>University/Board</th><th>Year</th><th>Percent</th></tr>
                 <tr><td>B.Tech in Computer Science and Engineering</td><td>Believers Church Caarmel Engg. College Pathanamthitta</td><td>MG University</td><td>2013-2017</td><td>73.96</td></tr>
-                <tr><td>Class XII</td><td>Mar Dionysius Sr. Secondary School Mallappally</td><td>CBSE</td>   <td>2013</td><td>70.6</td></tr>
+                <tr><td>Class XII</td><td>Mar Dionysius Sr. Secondary School Mallappally</td><td>CBSE</td><td>2013</td><td>70.6</td></tr>
+                <tr><td>Class X</td><td>Anjaneaya Saraswathy Vidya Mandiram Vaipur</td><td>CBSE</td><td>2011</td><td>93</td></tr>
                 </table>
                 </p>
-                
+                <p><h4>Computer Skills</h4>
+                <ul>
+                 <li>Programming Languages: C, C++, C#, Java, SQL Server</li>
+                 <li>Software Packages: Visual Studio, Android Studio, MS Office</li>
+                 <li>Platforms: RHEL 7, Linux and Windows</li>
+                </ul>
+                </p>
                 `
     },
      'article-two': {

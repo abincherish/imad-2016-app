@@ -41,6 +41,31 @@ var articles = {
                  <li>Platforms: RHEL 7, Linux and Windows</li>
                 </ul>
                 </p>
+                <p><h4>Certificationss</h4>
+                <ul>
+                 <li>RHCSA & RHCE at IPSR Solutions Kottayam (Pursuing)</li>
+                 <li>Database Programming with SQL by Oracle Academy (Pursuing online)</li>
+                 <li>IMAD by IIT Madras</li>
+                </ul>
+                </p>
+                 <p><h4>Strength and Weakness</h4>
+                 <table style="width:100%" border="1px">
+                 <tr><td> 
+                <ul>
+                 <li>Dedicated</li>
+                 <li>Enthusiastic</li>
+                 <li>Self aware & adaptable</li>
+                 <li>Caring & helpful</li>
+                </ul> </td>
+                <td>
+                <ul>
+                 <li>Workaholic</li>
+                 <li>Handwriting is not that good</li>
+                 <li>Habit of carrying a notepad</li>
+                 <li>Not good at sports</li>
+                </ul> </td></tr>
+                </table>/
+                </p>
                 `
     },
      'article-two': {

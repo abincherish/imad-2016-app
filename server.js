@@ -48,6 +48,14 @@ var articles = {
                  <li>IMAD by IIT Madras</li>
                 </ul>
                 </p>
+                <p>
+                <h4>Known Languages</h4>
+                <table style="width:100%" border="1px">
+                <tr><th></th><th>Read</th><th>Write</th><th>Speak</th></tr>
+                <tr><th>Malayalam</th><th>Y</th><th>Y</th><th>Y/th></tr>
+                <tr><th>English</th><th>Y</th><th>Y</th><th>Y/th></tr>
+                </table>
+                </p>
                  <p><h4>Strength and Weakness</h4>
                  <table style="width:100%">
                  <tr><td> 

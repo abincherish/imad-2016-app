@@ -114,7 +114,7 @@ var articles = {
       content: `<p>
       <h4>Contacts Details</h4>
       <p>
-      <table width"100%">
+      <table width="100%">
       <tr>
     <td> Name : Abin Cherish<br/>
         Address : Ayroothara House<br/>

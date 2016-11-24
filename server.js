@@ -113,28 +113,37 @@ var articles = {
       date: 'Saturday,1st October',
       content: `<p>
       <h4>Contacts Details</h4>
-      Name : Abin Cherish<br/>
-Address : Ayroothara House<br/>
-Chalappally P.O.,<br/>
-Ezhumattoor, Mallappally<br/>
-Pathanamthitta Dist. PIN 689586<br/>
-D.O.B : 28 December, 1994<br/>
-Gender : Male<br/>
-Mail : abincherish@gmail.com<br/>
-Mobile : 9744196141, 8301884251 <br/>
-Linked In :<a href="https://in.linkedin.com/in/abin-cherish-31874112a"target="_blank">Visit my Linked In Profile</a><br/>
-Resume Drive URL:<a href="https://drive.google.com/open?id=0Bz2aOzQMQ2q4eG1TTXpLNG1RM28"target="_blank">Visit my CV in Google Drive</a><br/>
-Resume Web App URL :<a href="http://abincherish.imad.hasura-app.io/"target="_blank">Visit my Web App</a><br/>
-<hr/>
-<p>
-<h4>References</h4><br>
-<table width="100%">
-<tr>
-<td>1. Prof. Bijy Mathew <br> HOD CSE Dept. BC Caarmel <br>Mob.: 9633468413</td>
-<td>2. Er. Joshy Thomas Jose <br>Asst. Prof. BC Caarmel <br>Mob.: 9447173364</td>
-</tr>
-</table>
-</p>
+      <p>
+      <table width"100%">
+      <tr>
+    <td> Name : Abin Cherish<br/>
+        Address : Ayroothara House<br/>
+        Chalappally P.O.,<br/>
+        Ezhumattoor, Mallappally<br/>
+        Pathanamthitta Dist. PIN 689586<br/>
+        D.O.B : 28 December, 1994<br/>
+        Gender : Male<br/><br/>
+        Mail : abincherish@gmail.com<br/>
+        Mobile : 9744196141, 8301884251 <br/>
+        </td>
+        <td>
+        Linked In :<a href="https://in.linkedin.com/in/abin-cherish-31874112a"target="_blank">Visit my Linked In Profile</a><br/>
+        Resume Drive URL:<a href="https://drive.google.com/open?id=0Bz2aOzQMQ2q4eG1TTXpLNG1RM28"target="_blank">Visit my CV in Google Drive</a><br/>
+        Resume Web App URL :<a href="http://abincherish.imad.hasura-app.io/"target="_blank">Visit my Web App</a><br/>
+        </td>
+    </tr>
+    </table>
+    </p>
+    <hr/>
+    <p>
+    <h4>References</h4><br>
+    <table width="100%">
+    <tr>
+    <td>1. Prof. Bijy Mathew <br> HOD CSE Dept. BC Caarmel <br>Mob.: 9633468413</td>
+    <td>2. Er. Joshy Thomas Jose <br>Asst. Prof. BC Caarmel <br>Mob.: 9447173364</td>
+    </tr>
+    </table>
+    </p>
                 </p>`
      }
 };

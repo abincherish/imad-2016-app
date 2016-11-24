@@ -15,7 +15,6 @@ var articles = {
         <a href="/article-three"> Contacts</a>
       `,
       heading: 'My Resume',
-      date: 'Friday,30th September',
       content: `<p>
                     Abin Cherish <br>
                     Final Year B.Tech Student	<br>
@@ -85,7 +84,6 @@ var articles = {
         <a href="/article-three"> Contact</a>
       `,
       heading: 'Projects',
-      date: 'Saturday,1st October',
       content: `<p>
                     <h4>Mini PETS4U</h4>
                     PETS4U is a web based application, mainly focused on to the pet farmers and pet dealers. It intends to provide support to those who are interested in pets. The shop owner who is the admin can publish the list of both currently available and new arrival pets in the shop. The system provides facilities for booking pets. In the case of advance booking of new arrival pets, the shop owner can send notifications by email and SMS when it became available.Users can consult any doctor, by mailing their enquiries directly to the doctor's mail. The system also provides information about services of the shop, accessories, food required for pets. The farmers can enlist the pets they have for sale so that the shop owner can easily send his requirement to the farmer through this site.
@@ -110,7 +108,6 @@ var articles = {
         <a href="/article-three"> Contact</a>
       `,
       heading: 'Contact',
-      date: 'Saturday,1st October',
       content: `<p>
       <h4>Contacts Details</h4>
       <p>
@@ -151,7 +148,6 @@ function createTemplate (data) {
     var title = data.title;
     var menu = data.menu;
     var heading = data.heading;
-    var date = data.date;
     var content = data.content;
         var htmlTemplate =`
         <html>
@@ -171,9 +167,7 @@ function createTemplate (data) {
                 <h3>
                 ${heading}
                 </h3>
-                <div>
-                    ${date}
-                </div>
+                
                 <div>
                     ${content}
                 </div>

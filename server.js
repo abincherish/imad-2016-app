@@ -127,8 +127,8 @@ Resume Drive URL:<a href="https://drive.google.com/open?id=0Bz2aOzQMQ2q4eG1TTXpL
 Resume Web App URL :<a href="http://abincherish.imad.hasura-app.io/"target="_blank">Visit my Web App</a><br/>
 <hr/>
 <p>
-<h5>Reference</h5><br>
-<table>
+<h4>References</h4><br>
+<table width="100%">
 <tr>
 <td>1. Prof. Bijy Mathew <br> HOD CSE Dept. BC Caarmel <br>Mob.: 9633468413</td>
 <td>2. Er. Joshy Thomas Jose <br>Asst. Prof. BC Caarmel <br>Mob.: 9447173364</td>

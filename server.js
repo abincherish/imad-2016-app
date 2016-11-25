@@ -22,9 +22,10 @@ var articles = {
                     Believers Church Caarmel Engg. College                                             
                 </p>
                 <hr/>
-                <p><h4>Career Objective</h4>
+                <h4>Career Objective</h4>
+                    <blockquote>
                     To succeed in an environment of growth and excellence and earn a job which provides me job satisfaction and self development and help me achieve personal as well as organizational goals.
-                </p>
+                </blockquote>
                 <p><h4>Academic Credentials</h4>
                 <table style="width:100%" border="1px">
                 <tr><th>Degree</th><th>Institution</th><th>University/Board</th><th>Year</th><th>Percent</th></tr>
